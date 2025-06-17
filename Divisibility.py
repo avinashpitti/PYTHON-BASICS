@@ -8,3 +8,5 @@ elif x % 3 == 0:
     print("x is divisible by 3")
 else:
     print("x is not divisible by 2 or 3.")
+
+print("It is done.")
